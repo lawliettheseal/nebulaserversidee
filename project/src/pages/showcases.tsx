@@ -90,8 +90,7 @@ export default function Showcases() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.2 }}
             >
-              Experience the power of Torrent through our community showcases.
-              Join thousands of users already enjoying unlimited possibilities.
+Experience the power of Nebula Admin.
             </motion.p>
           </motion.div>
 
