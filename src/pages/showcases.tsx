@@ -28,7 +28,7 @@ const showcases: Showcase[] = [
     link: 'https://www.youtube.com/watch?v=OUb8neeOLT0',
   },
   {
-    title: 'Torrent SS ft ‪@BranchingsReborn‬ | Quantum Productions',
+    title: 'Nebula Admin SS | Showcase',
     thumbnail: 'https://i.ytimg.com/vi/CFoSiXYZASU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAClgWKAgwIABABGD8gVChlMA8=&rs=AOn4CLDrrmemrFFoSZ89QGFfMNtwjfxF6A',
     duration: '6:21',
     creator: 'ombrer_20',
@@ -36,8 +36,8 @@ const showcases: Showcase[] = [
     link: 'https://www.youtube.com/watch?v=CFoSiXYZASU',
   },
   {
-    title: 'THE ALMIGHTY TORRENT SHOWCASE (AFK NPC XP FARM)',
-    thumbnail: 'https://img.youtube.com/vi/e-s710HuO_Q/maxresdefault.jpg',
+    title: 'Roblox Showcase: NEBULA ADMIN 👑︱Roblox Exploiting #11',
+    thumbnail: 'https://i.ytimg.com/vi/pj6eT5_yyVE/hqdefault.jpg?sqp=-oaymwEmCMQBEG5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDr50ZKlLSS2T8FjdSFkc_2j45pSw',
     duration: '5:23',
     creator: 'c00lkidd 🅥',
     views: '200+',
