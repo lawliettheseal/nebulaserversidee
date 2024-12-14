@@ -39,7 +39,7 @@ const showcases: Showcase[] = [
     title: 'Roblox Showcase: NEBULA ADMIN 👑︱Roblox Exploiting #11',
     thumbnail: 'https://i.ytimg.com/vi/pj6eT5_yyVE/hqdefault.jpg?sqp=-oaymwEmCMQBEG5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDr50ZKlLSS2T8FjdSFkc_2j45pSw',
     duration: '5:23',
-    creator: 'c00lkidd 🅥',
+    creator: 'c00lkidd',
     views: '200+',
     link: 'https://www.youtube.com/watch?v=pj6eT5_yyVE',
   },
